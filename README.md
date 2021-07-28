@@ -10,6 +10,9 @@ is created to answer this question and offer us insights on the same. A blog pos
 ### Table of Contents
 
 
+### PDF 
+[Wisdom of Crowds Report PDF](#https://github.com/KrishnaBellamkonda/wisdom-of-crowds-simulation/)
+
 ### Methodology 
 * Build the computer simulation 
 * Use the computer simulation to produce data 
