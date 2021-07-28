@@ -50,26 +50,32 @@ is created to answer this question and offer us insights on the same. A blog pos
  * Different_Groups_ConfidenceAtVariousBlocks<img src='images/Different_Groups_ConfidenceAtVariousBlocks.jpg.jpg'><img/>
  
 
-### Analysis
- * NewBackground<img src='images/NewBackground.jpg.jpg'><img/>
+#### Analysis
+ * Expert vs Oridnary at each block<img src='images/NewBackground.jpg.jpg'><img/>
  * DiverseGroup2_Performance_Size<img src='images/DiverseGroup2_Performance_Size.jpg.jpg'><img/>
  * DiverseGroup_Performance_Groupsize<img src='images/DiverseGroup_Performance_Groupsize.jpg.jpg'><img/>
+ * ExpertPercentage<img src='images/ExpertPercentage.jpg.jpg'><img/>
+ * ExpertProficiency<img src='images/ExpertProficiency.jpg.jpg'><img/>
+ * OrdinaryGroupDemographics<img src='images/OrdinaryGroupDemographics.jpg'><img/>
+ * OrdinaryGroup_Different_sizes<img src='images/OrdinaryGroup_Different_sizes.jpg.jpg'><img/>
+
+#### Comparison
  * Simulation3<img src='images/Simulation3.jpg'><img/>
  * IndividualGroupPerformance<img src='images/IndividualGroupPerformance.jpg.jpg'><img/>
- * 
+
+
+#### Other Demographics
 
 
  * DiverseGroup<img src='images/DiverseGroup.jpg'><img/>* DiverseGroup1Demographics<img src='images/DiverseGroup1Demographics.jpg'><img/>
  * DiverseGroup1_Group_Individual<img src='images/DiverseGroup1_Group_Individual.jpg'><img/>
  * DiverseGroup1_Group_Specializations <img src='images/DiverseGroup1_Group_Specializations.jpg.jpg'><img/>
  * ExpertOnlyDemographics<img src='images/ExpertOnlyDemographics.jpg'><img/>
- * ExpertPercentage<img src='images/ExpertPercentage.jpg.jpg'><img/>
- * ExpertProficiency<img src='images/ExpertProficiency.jpg.jpg'><img/>
+
 
  * ExpertsOnly_IndividualSpecializations<img src='images/ExpertsOnly_IndividualSpecializations.jpg.jpg'><img/
  * ExpertsOnly_Performance_Sizes<img src='images/ExpertsOnly_Performance_Sizes.jpg.jpg'><img/>
- * OrdinaryGroupDemographics<img src='images/OrdinaryGroupDemographics.jpg'><img/>
- * OrdinaryGroup_Different_sizes<img src='images/OrdinaryGroup_Different_sizes.jpg.jpg'><img/>
+
  * OrdinaryGroup_Individual_Group<img src='images/OrdinaryGroup_Individual_Group.jpg'><img/>
 ### Sources 
 * Surowiecki, J. (2006). The wisdom of crowds: Why the many are smarter than the few and how collective wisdom shapes business, economies, societies, and nations. Abacus. 
