@@ -32,7 +32,10 @@ is created to answer this question and offer us insights on the same. A blog pos
 * SimulationDraft (Report with all the details)
 
 ### Story through images
-<div style="display:flex; flex-direction:column;">
+<div style="display:flex; flex-direction:column; flex-grow:1;">
+
+ 
+ 
  #### Individual Sepcializations
  * ExpertsOnly_Group_Individual<img src='images/ExpertsOnly_Group_Individual.png'><img/>
  * DiverseGroupIndividualSpecializations<img src='images/DiverseGroupIndividualSpecializations.jpg.jpg'><img/>
