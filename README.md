@@ -11,7 +11,7 @@ is created to answer this question and offer us insights on the same. A blog pos
 
 
 ### PDF 
-[Wisdom of Crowds Report PDF](#https://github.com/KrishnaBellamkonda/wisdom-of-crowds-simulation/blob/master/SimulationDraft-28-9-2020.pdf)
+[Wisdom of Crowds Report PDF](./SimulationDraft-28-9-2020.pdf)
 
 ### Methodology 
 * Build the computer simulation 
