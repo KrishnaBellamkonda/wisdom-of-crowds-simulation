@@ -32,11 +32,10 @@ is created to answer this question and offer us insights on the same. A blog pos
 * SimulationDraft (Report with all the details)
 
 ### Story through images
-
+<div style="display:flex; flex-direction:column;">
  #### Individual Sepcializations
  * ExpertsOnly_Group_Individual<img src='images/ExpertsOnly_Group_Individual.png'><img/>
  * DiverseGroupIndividualSpecializations<img src='images/DiverseGroupIndividualSpecializations.jpg.jpg'><img/>
- * 
 
  #### Group Specializations Heatmaps
  * OrdinaryGroup_Group_Specializations<img src='images/OrdinaryGroup_Group_Specializations.jpg.jpg'><img/>
@@ -77,6 +76,8 @@ is created to answer this question and offer us insights on the same. A blog pos
  * ExpertsOnly_Performance_Sizes<img src='images/ExpertsOnly_Performance_Sizes.jpg.jpg'><img/>
 
  * OrdinaryGroup_Individual_Group<img src='images/OrdinaryGroup_Individual_Group.jpg'><img/>
+
+<div/>
 ### Sources 
 * Surowiecki, J. (2006). The wisdom of crowds: Why the many are smarter than the few and how collective wisdom shapes business, economies, societies, and nations. Abacus. 
 * Bon, Gustavalle. (2021). Crowd. a study of the popular mind. HANSEBOOKS. 
