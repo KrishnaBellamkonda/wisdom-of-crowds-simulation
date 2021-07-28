@@ -81,6 +81,7 @@ is created to answer this question and offer us insights on the same. A blog pos
  * OrdinaryGroup_Individual_Group<img src='images/OrdinaryGroup_Individual_Group.jpg'><img/>
 
 <div/>
+ 
 ### Sources 
 * Surowiecki, J. (2006). The wisdom of crowds: Why the many are smarter than the few and how collective wisdom shapes business, economies, societies, and nations. Abacus. 
 * Bon, Gustavalle. (2021). Crowd. a study of the popular mind. HANSEBOOKS. 
