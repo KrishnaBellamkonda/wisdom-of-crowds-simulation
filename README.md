@@ -6,6 +6,7 @@ This project is an exploration into the question - "Is the crowd more intelligen
 is created to answer this question and offer us insights on the same. A blog post will soon be released with the findings of this project. 
 
 ### Blog
+[Blog: Wisdom of Crowds: Insights from a Computer Simulation ](https://tippingathought.blogspot.com/2021/07/wisdom-of-crowds-insights-from-computer.html)
 
 ### Table of Contents
 
