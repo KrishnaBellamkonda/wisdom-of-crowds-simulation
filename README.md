@@ -3,7 +3,7 @@ In India, 99.996% of drivers reach their destination safely without any incident
 
 ### Description
 This project is an exploration into the question - "Is the crowd more intelligent than the most intelligent individual in the crowd?". A randomized computer simulation 
-is created to answer this question and offer us insights on the same. A blog post will soon be released with the findings of this project. 
+is created to answer this question and offer us insights on the same. A blog post sharing the findings of the project has been published - please check the next section for the same. 
 
 ### Blog
 [Blog: Wisdom of Crowds: Insights from a Computer Simulation ](https://tippingathought.blogspot.com/2021/07/wisdom-of-crowds-insights-from-computer.html)
